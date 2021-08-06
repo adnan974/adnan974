@@ -1,4 +1,4 @@
-### Hi I'm Adnan Goulamaly 👋
+### Hi I'm Adnan 👋
 
 <!--
 **adnan974/adnan974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
