@@ -6,7 +6,7 @@ I'm a web developper, mostly on the backend side.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning object programming design principles
 - 📫 How to reach me: adnan.goulamaly@gmail.com
-- 😄 Pronouns: Ad, Dada
+- 😄 Pronouns: Ad
 <!-- ⚡ Fun fact: ... -->
 
 ### Favorite technologies
