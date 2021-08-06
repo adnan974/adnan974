@@ -1,5 +1,22 @@
-### Hi I'm Adnan 👋
+### Hi I'm Adnan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="26px"  alt="hi">
 
+I'm a web developper, mostly on the backend side.
+
+- 🔭 I’m currently working on personal web projects
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🌱 I’m currently learning object programming design principles
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: adnan.goulamaly@gmail.com
+- 😄 Pronouns: Ad
+<!-- ⚡ Fun fact: ... -->
+
+### Favorite technologies
+
+[![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![Postgresql Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![MongoDb Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+
+ 	
 <!--
 **adnan974/adnan974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
